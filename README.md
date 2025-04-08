@@ -5,13 +5,15 @@ A simple Python-based spelling correction project developed for **BhashaTHON**. 
 
 ## 📂 Project Structure
 
-Spelling_Correction/ 
-├── main.py # Main logic for correction 
-├── Problems.txt # File with misspelled sentences 
-├── artificial.train.tgt # File with correct reference sentences 
-├── english_eval.corrected.txt # Output: corrected results 
-├── requirements.txt # Dependencies └── README.md # Project documentation
-
+```
+Spelling_Correction/  
+├── main.py                   # Main logic for correction  
+├── Problems.txt              # File with misspelled sentences  
+├── artificial.train.tgt      # File with correct reference sentences  
+├── english_eval.corrected.txt # Output: corrected results  
+├── requirements.txt          # Dependencies  
+└── README.md                 # Project documentation  
+```
 
 
 ## 🔧 How It Works
