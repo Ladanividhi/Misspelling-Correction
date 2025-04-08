@@ -31,16 +31,16 @@ Spelling_Correction/
 
 #### 🔧 Installation
 ```
-git clone https://github.com/yourusername/Spelling_Correction.git
-cd Spelling_Correction
+git clone https://github.com/Ladanividhi/Misspelling-Correction.git
+cd Misspelling-Correction
 pip install -r requirements.txt
 ```
 
 ### ▶️ Run the Project
 ```
 python main.py
-The output will be saved to english_eval.corrected.txt.
 ```
+The output will be saved to english_eval.corrected.txt.
 
 ## 🖥️ Environment
 
@@ -61,12 +61,9 @@ You can find a demo walkthrough of the project in the included video file: `Vide
 - **Parth Chandegara**  
 
 
-## ✅ Conclusion
+## ✅ Key Takeaways
 
 This project showcases a straightforward yet impactful method for correcting misspelled sentences using Python's string similarity tools. It is designed to be lightweight, easy to implement, and a great starting point for those exploring the world of natural language processing.
-
-
-## 🙏 Thank You
 
 Thank you for taking the time to explore our project. We appreciate your interest and support.  
 – Team **Code Crafters**
