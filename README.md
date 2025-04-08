@@ -30,13 +30,17 @@ Spelling_Correction/
 - pip
 
 #### 🔧 Installation
+```
 git clone https://github.com/yourusername/Spelling_Correction.git
 cd Spelling_Correction
 pip install -r requirements.txt
+```
 
 ### ▶️ Run the Project
+```
 python main.py
 The output will be saved to english_eval.corrected.txt.
+```
 
 ## 🖥️ Environment
 
